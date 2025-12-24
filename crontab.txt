@@ -1,0 +1,2 @@
+0 9 * * * /home/ec2-user/cloud-health-check/health_check.sh
+
